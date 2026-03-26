@@ -42,12 +42,6 @@
   - **Relatorio** — Excel com linhas coloridas (vermelho/verde)
   - **Exportacao** — Excel pronto para importacao (CNPJ formatado, contato e email)
 
-## Screenshots
-
-<p align="center">
-  <img src="assest/ConsulT_logo.png" alt="ConsulT Interface" width="300"/>
-</p>
-
 ## Tecnologias
 
 | Tecnologia | Finalidade |
